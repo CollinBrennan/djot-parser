@@ -1,0 +1,16 @@
+{
+  "name": "djot-parser",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.4.1",
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5"
+  }
+}
